@@ -31,3 +31,4 @@ src/cron-paths.h
 *.tar.*
 *.orig
 *.patch
+.idea
